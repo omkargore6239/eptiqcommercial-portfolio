@@ -1146,7 +1146,7 @@ The integration between these systems enables seamless data flow across departme
         {
           icon: <FaLock className="text-blue-500 text-2xl" />, 
           title: 'Secure Transactions',
-          description: 'Ensure safe and encrypted ticket purchases and payments with integrated security protocols.'
+          description: 'Ensure safe, secure and encrypted ticket purchases and payments with integrated security protocols.'
         },
         {
           icon: <FaClipboardList className="text-blue-500 text-2xl" />, 
