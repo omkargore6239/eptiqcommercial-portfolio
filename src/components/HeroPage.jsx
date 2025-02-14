@@ -71,7 +71,7 @@ function HeroPage() {
         <ul className="text-left space-y-2 animate-fadeIn">
           <li className="flex items-center gap-2">
             <FaCheckCircle className="text-green-400 text-2xl animate-bounce-slow" /> 
-            <span className="text-sm sm:text-base">4+ Years of Industry Experience</span>
+            <span className="text-sm sm:text-base">5+ Years of Industry Experience</span>
           </li>
           <li className="flex items-center gap-2">
             <FaCheckCircle className="text-green-400 text-2xl animate-bounce-slow delay-100" /> 
